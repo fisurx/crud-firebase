@@ -159,7 +159,8 @@ function App() {
               modoEdicion ? "Editar Tarea" : "Agregar tarea"
             }              
             </button>
-            <p>let a comment ;D</p>
+            <br/>
+            <p><center>let a task up there ;D</center></p>
           </form>
         </div>
       </div>
